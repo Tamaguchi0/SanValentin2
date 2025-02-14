@@ -13,14 +13,14 @@ from PIL import Image
 from wordcloud import WordCloud, STOPWORDS
 
 import streamlit as st
-
+#
 ###################################
 ###################################
 # Título de la aplicación
 st.title('Análisis de nuestro chat de WhatsApp')
 # Aqui quiero poner una animacion o un gift 
 st.image("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBtZWY4bGxlMXpvb2ZzYTdqanZmd3ZmMWRuYWNsajlxY2piMnZmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F1P5wA3Ai0jFAAWQFA/giphy.gif", width=300)
-
+#
 ##########################################
 # ### Paso 1: Definir funciones necesarias
 ##########################################
